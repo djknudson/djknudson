@@ -15,6 +15,6 @@ apps. I've spent more than twenty years in hotel operations, and I'm moving into
 - **[Writing](https://www.davidjknudson.com/#writing).** Fourteen write-ups, most on what broke
   and how I fixed it. Nine were published in Level Up Coding and AI Advances.
 
-I'm studying for Jamf 100 (September 2026), then CompTIA A+. Based in Los Angeles.
+I completed the Jamf 100 course in September 2026. Based in Los Angeles.
 
 [davidjknudson.com](https://www.davidjknudson.com) for the systems and write-ups · [LinkedIn](https://www.linkedin.com/in/davidjknudson) for work history and contact
